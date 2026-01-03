@@ -1,6 +1,10 @@
 # Floxar
 
-Build, manage, and optimize your business processes with intuitive visual workflows.
+**Operational documentation. Observable execution. Continuous improvement. Automation-ready.**
+
+Transform process knowledge into flows your team navigates and automations can accurately execute from.
+
+*Define → Observe → Automate & Improve*
 
 ---
 
