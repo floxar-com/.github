@@ -4,7 +4,7 @@
 
 Transform process knowledge into flows your team navigates and automations can accurately execute from.
 
-*Define → Observe → Automate & Improve*
+*Define → Execute → Observe → Automate & Improve*
 
 ---
 
