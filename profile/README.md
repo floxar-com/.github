@@ -4,7 +4,9 @@
 
 Floxar turns process knowledge into executable flows that people and AI agents navigate step by step — and that agents can author themselves. Every run records a trail, so you can see how work actually happens, prove it, and improve it.
 
-*Intake → Define → Execute → Observe → Improve → Automate → Govern*
+*Structure → Execute → Automate → Improve*
+
+Built for consequential work — RBAC, audit trails, and approval gates throughout.
 
 ---
 
