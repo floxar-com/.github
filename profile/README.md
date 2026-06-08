@@ -1,10 +1,10 @@
 # Floxar
 
-**Operational documentation. Observable execution. Continuous improvement. Automation-ready.**
+**The execution layer for human and AI work — structured, observable, automation-ready.**
 
-Transform process knowledge into flows your team navigates and automations can accurately execute from.
+Floxar turns process knowledge into executable flows that people and AI agents navigate step by step — and that agents can author themselves. Every run records a trail, so you can see how work actually happens, prove it, and improve it.
 
-*Define → Execute → Observe → Automate & Improve*
+*Intake → Define → Execute → Observe → Improve → Automate → Govern*
 
 ---
 
