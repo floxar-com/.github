@@ -10,4 +10,4 @@ Built for consequential work — RBAC, audit trails, and approval gates througho
 
 ---
 
-[Website](https://floxar.com) · [X](https://x.com/floxar) · [Dev.to](https://dev.to/floxar)
+[Website](https://floxar.com) · [X](https://x.com/floxar_com) · [Dev.to](https://dev.to/floxar)
